@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/drawable/border.xml" value="0.22314814814814815" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/drawable/search.xml" value="0.20092592592592592" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/font/varela_round.xml" value="0.20555555555555555" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/activity_emergencylogin.xml" value="0.264" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/activity_options.xml" value="0.264" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/activity_otpactivity.xml" value="0.264" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/activity_panicinfo.xml" value="0.264" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/activity_update.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/activity_urban.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/fragment_urban.xml" value="0.264" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/hospital.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WeForYou/app/src/main/res/layout/item_urbanrecycler.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
